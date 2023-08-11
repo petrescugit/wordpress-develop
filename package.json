@@ -78,7 +78,7 @@
 	"dependencies": {
 		"@emotion/is-prop-valid": "0.8.8",
 		"@emotion/memoize": "0.7.4",
-		"@wordpress/a11y": "3.35.1",
+		"@wordpress/a11y": "3.38.0",
 		"@wordpress/annotations": "2.35.7",
 		"@wordpress/api-fetch": "6.32.1",
 		"@wordpress/autop": "3.35.1",
